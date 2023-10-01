@@ -2,6 +2,7 @@
 
 
 Установить Docker Desktop (https://www.docker.com/products/docker-desktop/);  
+
 Скачать проект; 
 Открыть его в вашей IDE; 
 Перейти в папку project; 

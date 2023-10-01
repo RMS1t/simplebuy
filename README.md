@@ -1,5 +1,5 @@
 # simplebuy
-
+Как работать:
 
 Установить Docker Desktop (https://www.docker.com/products/docker-desktop/);  
 

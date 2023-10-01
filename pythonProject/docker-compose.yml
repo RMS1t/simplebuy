@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  web-app:
+    container_name: 'django-compose'
+    build:
+      context: .
+    ports:
+      - '8000:8000'
+    volumes:
+    - ./simplebuy:/simplebuy
+
